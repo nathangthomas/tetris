@@ -23,6 +23,6 @@ be found at [https://hexdocs.pm/tetris](https://hexdocs.pm/tetris).
 
 ## Helpful terminal commands:
 
-- `mix new <project_name>` create a new Elixir project /
+- `mix new <project_name>` create a new Elixir project
 - `iex -S mix` interactive shell
 - `mix test` run test suite
