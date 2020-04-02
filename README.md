@@ -19,3 +19,10 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/tetris](https://hexdocs.pm/tetris).
 
+
+
+## Helpful terminal commands:
+
+`mix new <project_name>` create a new Elixir project
+`iex -S mix` interactive shell
+`mix test` run test suite
