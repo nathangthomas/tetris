@@ -30,4 +30,6 @@ be found at [https://hexdocs.pm/tetris](https://hexdocs.pm/tetris).
 - `mix test` run test suite
 
 ## Articles I Found Interesting and/or Helpful:
-Here is an [article](https://www.google.com) that I enjoyed on Phoenix LiveView the describes what it is and when it might be the right tool for the job.
+- Here is an [article](https://www.google.com) that I enjoyed on Phoenix LiveView the describes what it is and when it might be the right tool for the job.
+
+- Tuples vs. Lists](https://www.google.com)
