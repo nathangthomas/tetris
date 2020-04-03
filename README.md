@@ -1,6 +1,9 @@
-# Tetris
+# Welcome to Tetris
 
-**TODO: Add description**
+This project is an exploration into Elixir and Phoenix LiveView.
+
+ This project is in progress. I will continue to update this README as I explore this new language and framework.
+
 
 ## Installation
 
@@ -21,8 +24,10 @@ be found at [https://hexdocs.pm/tetris](https://hexdocs.pm/tetris).
 
 
 
-## Helpful terminal commands:
-
+## Helpful Terminal Commands:
 - `mix new <project_name>` create a new Elixir project
 - `iex -S mix` interactive shell
 - `mix test` run test suite
+
+## Articles I Found Interesting and/or Helpful:
+Here is an [article](https://www.google.com) that I enjoyed on Phoenix LiveView the describes what it is and when it might be the right tool for the job.
