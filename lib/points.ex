@@ -13,7 +13,12 @@ defmodule Tetris.Points do
     |> Enum.map(fn {x, y} -> {4 - x, y} end )
   end
 
-  
+  def flip (points) do
+    points
+    |> Enum.map(fn {x, y} -> {x, 4 - y} end )
+  end
+
+
   #defp is how you define private methods
   # defp traspose_point({x,y}), do:{y, x}
   # defp mirror_point({x,y}), do: {4-x, y}
