@@ -27,6 +27,7 @@ be found at [https://hexdocs.pm/tetris](https://hexdocs.pm/tetris).
 ## Helpful Terminal Commands:
 - `mix new <project_name>` create a new Elixir project
 - `iex -S mix` interactive shell
+- `recompile` recompiles the interactive shell  ^^
 - `mix test` run test suite
 
 ## Articles I Found Interesting and/or Helpful:
